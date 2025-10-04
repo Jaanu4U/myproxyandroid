@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyProxy</string>
+    
+    <!-- Login -->
+    <string name="login_title">MyProxy Login</string>
+    <string name="login_subtitle">Connect with your mobile credentials</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login with Carrier IP</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_title">MyProxy Dashboard</string>
+    <string name="user_info_title">👤 User Information</string>
+    <string name="carrier_info_title">📱 Device &amp; Carrier</string>
+    <string name="proxy_server_title">🚀 Local Proxy Server</string>
+    <string name="proxy_config_title">⚙️ Proxy Configuration</string>
+    <string name="connection_status_title">📊 Connection Status</string>
+    
+    <!-- Buttons -->
+    <string name="start_proxy">Start Proxy</string>
+    <string name="stop_proxy">Stop Proxy</string>
+    <string name="refresh">Refresh</string>
+    <string name="logout">Logout</string>
+    
+    <!-- Status Messages -->
+    <string name="loading">Loading...</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="proxy_active">Proxy Active</string>
+    <string name="proxy_inactive">Proxy Inactive</string>
+    
+    <!-- Error Messages -->
+    <string name="login_failed">Login failed</string>
+    <string name="network_error">Network error</string>
+    <string name="authentication_required">Authentication required</string>
+    <string name="proxy_start_failed">Failed to start proxy server</string>
+    <string name="tunnel_connection_failed">Failed to establish tunnel connection</string>
+    
+    <!-- Notifications -->
+    <string name="proxy_service_notification_title">MyProxy Service</string>
+    <string name="proxy_service_notification_text">Proxy server is running</string>
+</resources>

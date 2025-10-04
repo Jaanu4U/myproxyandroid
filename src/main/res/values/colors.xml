@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#2563eb</color>
+    <color name="primary_dark">#1d4ed8</color>
+    <color name="accent_color">#3b82f6</color>
+    
+    <color name="success_color">#059669</color>
+    <color name="error_color">#dc2626</color>
+    <color name="warning_color">#d97706</color>
+    
+    <color name="background_color">#f9fafb</color>
+    <color name="surface_color">#ffffff</color>
+    
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6b7280</color>
+    <color name="text_hint">#9ca3af</color>
+    
+    <color name="border_color">#e5e7eb</color>
+    
+    <!-- Material Design Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

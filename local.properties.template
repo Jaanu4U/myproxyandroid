@@ -1,0 +1,6 @@
+# Location of the Android SDK
+sdk.dir=/path/to/Android/Sdk
+
+# MyProxy Configuration
+myproxy.server.url=https://myproxy.co.in
+myproxy.api.version=v1.0
