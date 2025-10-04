@@ -16,5 +16,5 @@ dependencyResolutionManagement {
 rootProject.name = "MyProxy"
 include(":app")
 
-// Map current directory as app module
-project(":app").projectDir = file(".")
+// Map app directory as app module
+project(":app").projectDir = file("app")
